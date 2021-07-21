@@ -10,10 +10,13 @@ As a senior data analyst at the company, you've been given access to the complet
 
 ## Summary of Findings
 
+![bar chart](https://user-images.githubusercontent.com/53315287/126425293-e2a19f12-3900-4b5d-9d40-584ec8b2a3d4.png)
+
+- Capomulin had the most mice survive the study, with the exception of Remicane. 
+
 ![Tumor box plot](https://user-images.githubusercontent.com/53315287/126423444-e0f6df0c-95d2-4000-8cb0-904544d1fee8.png)
 
 - This box plot shows that Capomulin is more effective than Infubinol and Ceftamin in reducing Tumor Volume (mm3) over 45 days.
-- The drug Infubinol had an outlier.
 
 ![scatter plot](https://user-images.githubusercontent.com/53315287/126423379-ad0d6473-632b-4fba-910e-478ca66e8ec3.png)
 
